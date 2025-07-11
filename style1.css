@@ -1,0 +1,31 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#outer {
+    font-size: 25px;
+}
+#inner {
+    font-size: 10px;
+}
+div{
+    color:rgb(40, 2, 76);
+    background-color :rgb(246, 219, 209);
+}
+.heading{
+    color :red;
+    background-color: rgb(231, 202, 128);
+}
+button{
+    color :rgb(105, 193, 105);
+}
+#one {
+    text-align : center;
+    text-transform: capitalize;
+}
+.two {
+    text-align: start;
+}
+body {
+    font-style:times ;
+}
